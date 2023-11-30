@@ -1,0 +1,14 @@
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\bin\Debug\net8.0\Zadani3.exe
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\bin\Debug\net8.0\Zadani3.deps.json
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\bin\Debug\net8.0\Zadani3.runtimeconfig.json
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\bin\Debug\net8.0\Zadani3.dll
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\bin\Debug\net8.0\Zadani3.pdb
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\Zadani3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\Zadani3.AssemblyInfoInputs.cache
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\Zadani3.AssemblyInfo.cs
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\Zadani3.csproj.CoreCompileInputs.cache
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\Zadani3.dll
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\refint\Zadani3.dll
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\Zadani3.pdb
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\Zadani3.genruntimeconfig.cache
+C:\Users\creep\OneDrive\Рабочий стол\Yrok3\Zadani3\obj\Debug\net8.0\ref\Zadani3.dll
